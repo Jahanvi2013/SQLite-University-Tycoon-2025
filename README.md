@@ -24,3 +24,9 @@ q6.sql : Round 2, move 2
 q7.sql : Round 2, move 3
 
 q8.sql : Round 2, move 4
+
+rules.pdf cearly explain the rules of the game 
+
+ER Diagram shows the entity relation diagram used to create the database
+
+The mp4 file is a video explaining the functioning of the database
